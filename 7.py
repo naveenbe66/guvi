@@ -1,3 +1,3 @@
 number=int(input())
-for i in range(nunber):
+for i in range(number):
     print("Hello")
