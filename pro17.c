@@ -9,7 +9,7 @@ int main()
     }
     for(i1=0;i1<n2;i1++)
     {  
-    	for(j1=i1+1;j1<n2;1++)
+    	for(j1=i1+1;j1<n2;j1++)
     	{
     		if(ak1[i1]+ak1[j1]==k1)
     		{
