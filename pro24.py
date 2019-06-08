@@ -17,5 +17,5 @@ k=0
 for i in m2:
   k+=1
   print(i)
-  if(k%a3==0 and k!=len(m2)):
-   print("\n")
+  #if(k%a3==0 and k!=len(m2)):
+  
